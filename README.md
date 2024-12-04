@@ -1,6 +1,6 @@
 # Olá, eu sou Danilo Fortes! 
 
-Seja bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, basquete, vôlei e cultura geek. Além de autodesenvolvimento 😁. Aqui, você encontrará projetos que desenvolvi ou contribuí, além de códigos que refletem minha jornada no mundo da programação.
+Seja bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, basquete, vôlei e cultura geek, além de autodesenvolvimento 😁. Aqui, você encontrará projetos que desenvolvi ou contribuí, além de códigos que refletem minha jornada no mundo da programação.
 
 ---
 
