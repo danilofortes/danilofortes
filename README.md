@@ -23,7 +23,7 @@
 - Sou apaixonado por tecnologia, basquete, vôlei e cultura geek.
 - Amo o autodesenvolvimento e estou sempre buscando aprender algo novo.
 - Sou amante de animais (especialmente gatos e cachorros).
-- Não resisto a um bom energético.
+- Escuto música a maioria do tempo.
 
 ---
 
