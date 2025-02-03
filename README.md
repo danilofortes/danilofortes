@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/13/f3/3f/13f33f9ddeaf19cfbee3ec8990f7098f.jpg" alt="Profile Banner" style="width:80%; height:auto;">
-</div>
-
 ---
 
 <h1 align="center">Danilo Fortes! 👋</h1>
@@ -37,7 +33,7 @@
 
 ## 📱 Contatos
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilofortes.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilofortes__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-fortes-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloaugusto.fortes@gmail.com)
 
