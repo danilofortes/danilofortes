@@ -32,23 +32,23 @@
 
 ---
 
-## 🚀 Sobre mim
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23ffffff&width=26" align="center" /> Sobre mim
 
 Desenvolvedor de Software Júnior e estudante de Engenharia da Computação pela **Universidade São Francisco (USF)**. Atualmente atuo no desenvolvimento de software, buscando aprimorar continuamente minhas habilidades em arquitetura de sistemas, desenvolvimento full stack, computação em nuvem e engenharia de software.
 
-- 🎓 Graduando em Engenharia da Computação
-- 💼 Desenvolvedor de Software Júnior
-- 🔧 Técnico em Eletrônica pela **ETEC Bento Quirino**
-- ☁️ Estudando tecnologias **Cloud** e **AWS**
-- 🤖 Explorando **Inteligência Artificial**, **Machine Learning**, **LLMs** e **Spec-Driven Development** (SpecForge)
-- 📊 Interesse em Engenharia de Software, Cloud Computing, Dados, Infraestrutura e IA
-- 🚀 Sempre buscando aprender novas tecnologias e desenvolver soluções escaláveis
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23c9d1d9&width=18" align="center" /> Graduando em Engenharia da Computação
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23c9d1d9&width=18" align="center" /> Desenvolvedor de Software Júnior
+- <img src="https://api.iconify.design/lucide/wrench.svg?color=%23c9d1d9&width=18" align="center" /> Técnico em Eletrônica pela **ETEC Bento Quirino**
+- <img src="https://api.iconify.design/lucide/cloud.svg?color=%23c9d1d9&width=18" align="center" /> Estudando tecnologias **Cloud** e **AWS**
+- <img src="https://api.iconify.design/lucide/cpu.svg?color=%23c9d1d9&width=18" align="center" /> Explorando **Inteligência Artificial**, **Machine Learning**, **LLMs** e **Spec-Driven Development** (SpecForge)
+- <img src="https://api.iconify.design/lucide/chart-line.svg?color=%23c9d1d9&width=18" align="center" /> Interesse em Engenharia de Software, Cloud Computing, Dados, Infraestrutura e IA
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%23c9d1d9&width=18" align="center" /> Sempre buscando aprender novas tecnologias e desenvolver soluções escaláveis
 
 ---
 
-## 🛠️ Tecnologias
+## <img src="https://api.iconify.design/lucide/terminal.svg?color=%23ffffff&width=26" align="center" /> Tecnologias
 
-### Linguagens
+### <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23ffffff&width=20" align="center" /> Linguagens
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -56,7 +56,7 @@ Desenvolvedor de Software Júnior e estudante de Engenharia da Computação pela
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Frameworks e Bibliotecas
+### <img src="https://api.iconify.design/lucide/package.svg?color=%23ffffff&width=20" align="center" /> Frameworks e Bibliotecas
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -64,13 +64,13 @@ Desenvolvedor de Software Júnior e estudante de Engenharia da Computação pela
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
 </p>
 
-### Banco de Dados
+### <img src="https://api.iconify.design/lucide/database.svg?color=%23ffffff&width=20" align="center" /> Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### Cloud e Ferramentas
+### <img src="https://api.iconify.design/lucide/cloud.svg?color=%23ffffff&width=20" align="center" /> Cloud e Ferramentas
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -78,7 +78,7 @@ Desenvolvedor de Software Júnior e estudante de Engenharia da Computação pela
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### IA e Machine Learning
+### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23ffffff&width=20" align="center" /> IA e Machine Learning
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -93,33 +93,33 @@ Desenvolvedor de Software Júnior e estudante de Engenharia da Computação pela
 
 ---
 
-## 💡 Competências
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23ffffff&width=26" align="center" /> Competências
 
-- 🌐 Desenvolvimento Full Stack
-- 🔗 APIs REST
-- 🏛️ Arquitetura de Software
-- 🗃️ Modelagem de Dados
-- 🧩 Resolução de Problemas
-- 🤝 Trabalho em Equipe
-- 🔄 Metodologias Ágeis
-- 📦 Versionamento de Código
+- <img src="https://api.iconify.design/lucide/layers.svg?color=%23c9d1d9&width=18" align="center" /> Desenvolvimento Full Stack
+- <img src="https://api.iconify.design/lucide/network.svg?color=%23c9d1d9&width=18" align="center" /> APIs REST
+- <img src="https://api.iconify.design/lucide/building.svg?color=%23c9d1d9&width=18" align="center" /> Arquitetura de Software
+- <img src="https://api.iconify.design/lucide/database.svg?color=%23c9d1d9&width=18" align="center" /> Modelagem de Dados
+- <img src="https://api.iconify.design/lucide/puzzle.svg?color=%23c9d1d9&width=18" align="center" /> Resolução de Problemas
+- <img src="https://api.iconify.design/lucide/users.svg?color=%23c9d1d9&width=18" align="center" /> Trabalho em Equipe
+- <img src="https://api.iconify.design/lucide/refresh-ccw.svg?color=%23c9d1d9&width=18" align="center" /> Metodologias Ágeis
+- <img src="https://api.iconify.design/lucide/git-branch.svg?color=%23c9d1d9&width=18" align="center" /> Versionamento de Código
 
 ---
 
-## 🌍 Idiomas
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%23ffffff&width=26" align="center" /> Idiomas
 
 - 🇧🇷 **Português (Brasileiro)** — Nativo `██████████`
 - 🇺🇸 **Inglês** — Intermediário `█████░░░░░░`
 
 ---
 
-## 🎯 Objetivos
+## <img src="https://api.iconify.design/lucide/target.svg?color=%23ffffff&width=26" align="center" /> Objetivos
 
 Atuar no desenvolvimento de soluções **robustas e escaláveis**, contribuindo para projetos que gerem impacto real através da tecnologia. Tenho interesse especial em **Engenharia de Software**, **Cloud Computing**, **Infraestrutura**, **sistemas de alta disponibilidade** e na aplicação de **Inteligência Artificial** para resolver problemas reais.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/chart-line.svg?color=%23ffffff&width=26" align="center" /> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/danilofortes">
