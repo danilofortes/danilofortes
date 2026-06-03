@@ -129,7 +129,6 @@ To build **robust and scalable solutions**, contributing to projects that create
 
 <div align="center">
   <img src="./metrics/languages.svg" alt="Most used languages" />
-  <img src="./metrics/followup.svg" alt="Issues and Pull Requests" />
 </div>
 
 <div align="center">
