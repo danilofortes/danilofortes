@@ -123,21 +123,21 @@ To build **robust and scalable solutions**, contributing to projects that create
 
 <div align="center">
   <a href="https://github.com/danilofortes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilofortes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="Danilo's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofortes&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
+    <img src="./metrics/metrics.svg" alt="GitHub Metrics" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=danilofortes&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="./metrics/languages.svg" alt="Most used languages" />
+  <img src="./metrics/followup.svg" alt="Issues and Pull Requests" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danilofortes&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff" alt="Activity Graph" />
+  <img src="./metrics/calendar.svg" alt="Contribution calendar" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danilofortes&theme=gitdimmed&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="./metrics/achievements.svg" alt="Achievements" />
 </div>
 
 ---
