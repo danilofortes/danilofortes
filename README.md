@@ -129,7 +129,6 @@ Atuar no desenvolvimento de soluções **robustas e escaláveis**, contribuindo 
 
 <div align="center">
   <img src="./metrics/languages.svg" alt="Linguagens mais utilizadas" />
-  <img src="./metrics/followup.svg" alt="Issues e Pull Requests" />
 </div>
 
 <div align="center">
