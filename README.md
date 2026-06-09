@@ -122,21 +122,8 @@ Atuar no desenvolvimento de soluções **robustas e escaláveis**, contribuindo 
 ## <img src="https://api.iconify.design/lucide/chart-line.svg?color=%23ffffff&width=26" align="center" /> GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/danilofortes">
-    <img src="./metrics/metrics.svg" alt="GitHub Metrics" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="./metrics/languages.svg" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center">
-  <img src="./metrics/calendar.svg" alt="Calendário de contribuições" />
-</div>
-
-<div align="center">
-  <img src="./metrics/achievements.svg" alt="Conquistas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danilofortes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofortes&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 ---
