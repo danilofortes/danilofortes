@@ -135,10 +135,6 @@ Atuar no desenvolvimento de soluções **robustas e escaláveis**, contribuindo 
   <img src="./metrics/calendar.svg" alt="Calendário de contribuições" />
 </div>
 
-<div align="center">
-  <img src="./metrics/achievements.svg" alt="Conquistas" />
-</div>
-
 ---
 
 <!-- Banner footer -->

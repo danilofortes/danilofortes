@@ -135,10 +135,6 @@ To build **robust and scalable solutions**, contributing to projects that create
   <img src="./metrics/calendar.svg" alt="Contribution calendar" />
 </div>
 
-<div align="center">
-  <img src="./metrics/achievements.svg" alt="Achievements" />
-</div>
-
 ---
 
 <!-- Banner footer -->
